@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+}
+img {
+  background-color: white;
+}
+.App{
+  text-align: center;
+  text-align: -webkit-center;
+}
+.forms{
+  font-weight: bold;
+}
+form input{
+  border-radius: 5px;
+  background-color: rgb(177, 178, 255);
+}
+.btn{
+  width: 8%;
+  margin-left: 50px;
+
+}
+.heading{
+  color:rgb(28, 28, 32);
+}
+
+thead{
+  background-color: rgb(177, 178, 255);
+}
+
+.btn1{
+  color: rgb(26, 26, 30);
+}
+
+.none{
+  text-decoration: none;
+}
+
+.strike{
+  text-decoration: line-through;
+}
